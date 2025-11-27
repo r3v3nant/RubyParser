@@ -1,0 +1,8 @@
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 3.4 # Вкажіть версію Ruby, яку ви використовуєте
+  Exclude:
+    - 'Gemfile' # Виключити файли, які не потрібно перевіряти
+
+Layout/LineLength:
+  Max: 120 # Максимальна довжина рядка
