@@ -221,6 +221,11 @@ module MyApplicationKriukov
     private
 
     def auto_save_collection
+      if @configurator.config[:run_save_to_file] == 1
+        @collection.save_to_file('output/weapons.txt')
+        @logger.info('Collection saved to TXT')
+      end
+
       if @configurator.config[:run_save_to_csv] == 1
         @collection.save_to_csv('output/weapons.csv')
         @logger.info('Collection saved to CSV')

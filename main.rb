@@ -12,8 +12,9 @@ module MyApplicationKriukov
       configurator.configure(
         run_website_parser: 2,
         thread_size: 10,
-        run_save_to_csv: 1,
-        run_save_to_json: 1,
+        run_save_to_file: 1,
+        run_save_to_csv: 0,
+        run_save_to_json: 0,
         run_save_to_yaml: 0
       )
 
