@@ -5,8 +5,9 @@ module MyApplicationKriukov
     attr_reader :config
 
     DEFAULT_CONFIG = {
-      run_website_parser: 0,
-      run_save_to_csv: 0,
+      run_website_parser: 1,
+      thread_size: 5,
+      run_save_to_csv: 1,
       run_save_to_json: 0,
       run_save_to_yaml: 0
 

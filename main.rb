@@ -10,7 +10,8 @@ module MyApplicationKriukov
 
       configurator = MyApplicationKriukov::Configurator.new
       configurator.configure(
-        run_website_parser: 1,
+        run_website_parser: 2,
+        thread_size: 10,
         run_save_to_csv: 1,
         run_save_to_json: 1,
         run_save_to_yaml: 0
@@ -23,7 +24,11 @@ module MyApplicationKriukov
 
         scraper.scrape_all
 
-        # weapons_collection = scraper.collection
+      elsif configurator.config[:run_website_parser] == 2
+        LoggerManager.setup(config)
+        scraper = WeaponScraper.new(config, configurator)
+
+        scraper.scrape_all_thread
       end
 
       puts 'Program has finished'
