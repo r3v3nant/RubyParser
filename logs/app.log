@@ -1,0 +1,451 @@
+# Logfile created on 2025-11-29 00:42:38 +0200 by logger.rb/v1.7.0
+I, [2025-11-29T00:43:49.218007 #8108]  INFO -- : Found 111 weapons
+I, [2025-11-29T00:43:50.549548 #8108]  INFO -- : Parsed: Training Broadblade
+I, [2025-11-29T00:43:51.195746 #8108]  INFO -- : Parsed: Tyro Broadblade
+I, [2025-11-29T00:43:51.867685 #8108]  INFO -- : Parsed: Broadblade of Night
+I, [2025-11-29T00:43:52.545651 #8108]  INFO -- : Parsed: Lustrous Razor
+I, [2025-11-29T00:43:53.237118 #8108]  INFO -- : Parsed: Verdant Summit
+I, [2025-11-29T00:43:53.925077 #8108]  INFO -- : Parsed: Originite: Type I
+I, [2025-11-29T00:43:54.614844 #8108]  INFO -- : Parsed: Discord
+I, [2025-11-29T00:43:55.308214 #8108]  INFO -- : Parsed: Ages of Harvest
+I, [2025-11-29T00:43:56.007321 #8108]  INFO -- : Parsed: Broadblade#41
+I, [2025-11-29T00:43:56.676727 #8108]  INFO -- : Parsed: Wildfire Mark
+I, [2025-11-29T00:43:57.296974 #8108]  INFO -- : Parsed: Broadblade of Voyager
+I, [2025-11-29T00:43:57.908482 #8108]  INFO -- : Parsed: Dauntless Evernight
+I, [2025-11-29T00:43:58.562604 #8108]  INFO -- : Parsed: Thunderflare Dominion
+I, [2025-11-29T00:43:59.278488 #8108]  INFO -- : Parsed: Guardian Broadblade
+I, [2025-11-29T00:43:59.991673 #8108]  INFO -- : Parsed: Kumokiri
+I, [2025-11-29T00:44:00.664109 #8108]  INFO -- : Parsed: Beguiling Melody
+I, [2025-11-29T00:44:01.344813 #8108]  INFO -- : Parsed: Helios Cleaver
+I, [2025-11-29T00:44:02.042098 #8108]  INFO -- : Parsed: Autumntrace
+I, [2025-11-29T00:44:02.698107 #8108]  INFO -- : Parsed: Waning Redshift
+I, [2025-11-29T00:44:03.364834 #8108]  INFO -- : Parsed: Meditations on Mercy
+I, [2025-11-29T00:44:04.057380 #8108]  INFO -- : Parsed: Aureate Zenith
+I, [2025-11-29T00:44:04.728762 #8108]  INFO -- : Parsed: Training Sword
+I, [2025-11-29T00:44:05.412627 #8108]  INFO -- : Parsed: Tyro Sword
+I, [2025-11-29T00:44:06.095322 #8108]  INFO -- : Parsed: Sword of Night
+I, [2025-11-29T00:44:06.773566 #8108]  INFO -- : Parsed: Emerald of Genesis
+I, [2025-11-29T00:44:07.458836 #8108]  INFO -- : Parsed: Blazing Brilliance
+I, [2025-11-29T00:44:08.079238 #8108]  INFO -- : Parsed: Somnoire Anchor
+I, [2025-11-29T00:44:08.759259 #8108]  INFO -- : Parsed: Originite: Type II
+I, [2025-11-29T00:44:09.445547 #8108]  INFO -- : Parsed: Overture
+I, [2025-11-29T00:44:10.145447 #8108]  INFO -- : Parsed: Red Spring
+I, [2025-11-29T00:44:10.861478 #8108]  INFO -- : Parsed: Sword#18
+I, [2025-11-29T00:44:11.531283 #8108]  INFO -- : Parsed: Unflickering Valor
+I, [2025-11-29T00:44:12.210818 #8108]  INFO -- : Parsed: Sword of Voyager
+I, [2025-11-29T00:44:12.823254 #8108]  INFO -- : Parsed: Commando of Conviction
+I, [2025-11-29T00:44:13.507639 #8108]  INFO -- : Parsed: Bloodpact's Pledge
+I, [2025-11-29T00:44:14.177216 #8108]  INFO -- : Parsed: Guardian Sword
+I, [2025-11-29T00:44:14.848843 #8108]  INFO -- : Parsed: Defier's Thorn
+I, [2025-11-29T00:44:15.511237 #8108]  INFO -- : Parsed: Lunar Cutter
+I, [2025-11-29T00:44:16.123145 #8108]  INFO -- : Parsed: Emerald Sentence
+I, [2025-11-29T00:44:16.741960 #8108]  INFO -- : Parsed: Lumingloss
+I, [2025-11-29T00:44:17.514847 #8108]  INFO -- : Parsed: Endless Collapse
+I, [2025-11-29T00:44:18.225687 #8108]  INFO -- : Parsed: Fables of Wisdom
+I, [2025-11-29T00:44:18.918567 #8108]  INFO -- : Parsed: Feather Edge
+I, [2025-11-29T00:44:19.588604 #8108]  INFO -- : Parsed: Training Pistols
+I, [2025-11-29T00:44:20.205149 #8108]  INFO -- : Parsed: Tyro Pistols
+I, [2025-11-29T00:44:20.829886 #8108]  INFO -- : Parsed: Pistols of Night
+I, [2025-11-29T00:44:21.531012 #8108]  INFO -- : Parsed: Static Mist
+I, [2025-11-29T00:44:22.245397 #8108]  INFO -- : Parsed: The Last Dance
+I, [2025-11-29T00:44:22.926715 #8108]  INFO -- : Parsed: Originite: Type III
+I, [2025-11-29T00:44:23.621196 #8108]  INFO -- : Parsed: Cadenza
+I, [2025-11-29T00:44:24.272530 #8108]  INFO -- : Parsed: Woodland Aria
+I, [2025-11-29T00:44:24.888502 #8108]  INFO -- : Parsed: Pistols#26
+I, [2025-11-29T00:44:25.573038 #8108]  INFO -- : Parsed: Lux & Umbra
+I, [2025-11-29T00:44:26.339319 #8108]  INFO -- : Parsed: Pistols of Voyager
+I, [2025-11-29T00:44:27.041206 #8108]  INFO -- : Parsed: Undying Flame
+I, [2025-11-29T00:44:27.724914 #8108]  INFO -- : Parsed: Guardian Pistols
+I, [2025-11-29T00:44:28.370533 #8108]  INFO -- : Parsed: Novaburst
+I, [2025-11-29T00:44:29.072153 #8108]  INFO -- : Parsed: Thunderbolt
+I, [2025-11-29T00:44:29.704520 #8108]  INFO -- : Parsed: Relativistic Jet
+I, [2025-11-29T00:44:30.354203 #8108]  INFO -- : Parsed: Romance in Farewell
+I, [2025-11-29T00:44:31.035151 #8108]  INFO -- : Parsed: Solar Flame
+I, [2025-11-29T00:44:31.758727 #8108]  INFO -- : Parsed: Training Gauntlets
+I, [2025-11-29T00:44:32.455332 #8108]  INFO -- : Parsed: Tyro Gauntlets
+I, [2025-11-29T00:44:33.149091 #8108]  INFO -- : Parsed: Gauntlets of Night
+I, [2025-11-29T00:44:33.829332 #8108]  INFO -- : Parsed: Abyss Surges
+I, [2025-11-29T00:44:34.528446 #8108]  INFO -- : Parsed: Verity's Handle
+I, [2025-11-29T00:44:35.221170 #8108]  INFO -- : Parsed: Originite: Type IV
+I, [2025-11-29T00:44:35.878470 #8108]  INFO -- : Parsed: Marcato
+I, [2025-11-29T00:44:36.559665 #8108]  INFO -- : Parsed: Tragicomedy
+I, [2025-11-29T00:44:37.242999 #8108]  INFO -- : Parsed: Gauntlets#21D
+I, [2025-11-29T00:44:37.862598 #8108]  INFO -- : Parsed: Blazing Justice
+I, [2025-11-29T00:44:38.546019 #8108]  INFO -- : Parsed: Gauntlets of Voyager
+I, [2025-11-29T00:44:39.169025 #8108]  INFO -- : Parsed: Amity Accord
+I, [2025-11-29T00:44:39.843781 #8108]  INFO -- : Parsed: Moongazer's Sigil
+I, [2025-11-29T00:44:40.544641 #8108]  INFO -- : Parsed: Guardian Gauntlets
+I, [2025-11-29T00:44:41.244545 #8108]  INFO -- : Parsed: Hollow Mirage
+I, [2025-11-29T00:44:41.867380 #8108]  INFO -- : Parsed: Stonard
+I, [2025-11-29T00:44:42.497274 #8108]  INFO -- : Parsed: Celestial Spiral
+I, [2025-11-29T00:44:43.154133 #8108]  INFO -- : Parsed: Legend of Drunken Hero
+I, [2025-11-29T00:44:43.922418 #8108]  INFO -- : Parsed: Aether Strike
+I, [2025-11-29T00:44:44.858326 #8108]  INFO -- : Parsed: Training Rectifier
+I, [2025-11-29T00:44:45.578944 #8108]  INFO -- : Parsed: Tyro Rectifier
+I, [2025-11-29T00:44:46.260613 #8108]  INFO -- : Parsed: Rectifier of Night
+I, [2025-11-29T00:44:46.871518 #8108]  INFO -- : Parsed: Cosmic Ripples
+I, [2025-11-29T00:44:47.556101 #8108]  INFO -- : Parsed: Stringmaster
+I, [2025-11-29T00:44:48.209970 #8108]  INFO -- : Parsed: Call of the Abyss
+I, [2025-11-29T00:44:48.874971 #8108]  INFO -- : Parsed: Originite: Type V
+I, [2025-11-29T00:44:49.540964 #8108]  INFO -- : Parsed: Variation
+I, [2025-11-29T00:44:50.218784 #8108]  INFO -- : Parsed: Rime-Draped Sprouts
+I, [2025-11-29T00:44:50.929637 #8108]  INFO -- : Parsed: Ocean's Gift
+I, [2025-11-29T00:44:51.593410 #8108]  INFO -- : Parsed: Rectifier#25
+I, [2025-11-29T00:44:52.286598 #8108]  INFO -- : Parsed: Stellar Symphony
+I, [2025-11-29T00:44:52.990352 #8108]  INFO -- : Parsed: Rectifier of Voyager
+I, [2025-11-29T00:44:53.641584 #8108]  INFO -- : Parsed: Jinzhou Keeper
+I, [2025-11-29T00:44:54.330654 #8108]  INFO -- : Parsed: Luminous Hymn
+I, [2025-11-29T00:44:55.009768 #8108]  INFO -- : Parsed: Guardian Rectifier
+I, [2025-11-29T00:44:55.723332 #8108]  INFO -- : Parsed: Whispers of Sirens
+I, [2025-11-29T00:44:56.372248 #8108]  INFO -- : Parsed: Comet Flare
+I, [2025-11-29T00:44:57.065609 #8108]  INFO -- : Parsed: Lethean Elegy
+I, [2025-11-29T00:44:57.798088 #8108]  INFO -- : Parsed: Augment
+I, [2025-11-29T00:44:58.448345 #8108]  INFO -- : Parsed: Fusion Accretion
+I, [2025-11-29T00:44:59.175057 #8108]  INFO -- : Parsed: Waltz in Masquerade
+I, [2025-11-29T00:44:59.851367 #8108]  INFO -- : Parsed: Radiant Dawn
+I, [2025-11-29T00:45:00.536754 #8108]  INFO -- : Parsed: Projection: Somnoire Anchor
+I, [2025-11-29T00:45:01.261733 #8108]  INFO -- : Parsed: Projection: Formless Broadblade
+I, [2025-11-29T00:45:01.923451 #8108]  INFO -- : Parsed: Projection: Formless Sword
+I, [2025-11-29T00:45:02.605079 #8108]  INFO -- : Parsed: Projection: Formless Pistol
+I, [2025-11-29T00:45:03.220434 #8108]  INFO -- : Parsed: Projection: Formless Gauntlets
+I, [2025-11-29T00:45:03.920657 #8108]  INFO -- : Parsed: Projection: Formless Rectifier
+I, [2025-11-29T00:45:04.546540 #8108]  INFO -- : Parsed: Projection - Peach Blossom
+I, [2025-11-29T00:45:05.262602 #8108]  INFO -- : Parsed: Projection: Ocean's GiftI, [2025-12-04T02:02:54.250873 #28448]  INFO -- : WeaponCollection initialized
+I, [2025-12-04T02:02:56.453866 #28448]  INFO -- : Found 111 weapons
+I, [2025-12-04T02:02:57.080192 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:02:57.080609 #28448]  INFO -- : Added item: 
+I, [2025-12-04T02:02:57.080742 #28448]  INFO -- : Added weapon: 
+I, [2025-12-04T02:03:27.703213 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:27.703621 #28448]  INFO -- : Added item: Tyro Broadblade
+I, [2025-12-04T02:03:27.703784 #28448]  INFO -- : Added weapon: Tyro Broadblade
+I, [2025-12-04T02:03:28.361131 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:28.361344 #28448]  INFO -- : Added item: Broadblade of Night
+I, [2025-12-04T02:03:28.361445 #28448]  INFO -- : Added weapon: Broadblade of Night
+I, [2025-12-04T02:03:29.015402 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:29.015887 #28448]  INFO -- : Added item: Lustrous Razor
+I, [2025-12-04T02:03:29.016068 #28448]  INFO -- : Added weapon: Lustrous Razor
+I, [2025-12-04T02:03:29.800197 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:29.800521 #28448]  INFO -- : Added item: Verdant Summit
+I, [2025-12-04T02:03:29.800655 #28448]  INFO -- : Added weapon: Verdant Summit
+I, [2025-12-04T02:03:30.482692 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:30.482933 #28448]  INFO -- : Added item: Originite: Type I
+I, [2025-12-04T02:03:30.483100 #28448]  INFO -- : Added weapon: Originite: Type I
+I, [2025-12-04T02:03:31.109420 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:31.109625 #28448]  INFO -- : Added item: Discord
+I, [2025-12-04T02:03:31.109671 #28448]  INFO -- : Added weapon: Discord
+I, [2025-12-04T02:03:31.750260 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:31.750710 #28448]  INFO -- : Added item: Ages of Harvest
+I, [2025-12-04T02:03:31.751013 #28448]  INFO -- : Added weapon: Ages of Harvest
+I, [2025-12-04T02:03:32.448906 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:32.449246 #28448]  INFO -- : Added item: Broadblade#41
+I, [2025-12-04T02:03:32.449368 #28448]  INFO -- : Added weapon: Broadblade#41
+I, [2025-12-04T02:03:33.147503 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:33.147748 #28448]  INFO -- : Added item: Wildfire Mark
+I, [2025-12-04T02:03:33.147892 #28448]  INFO -- : Added weapon: Wildfire Mark
+I, [2025-12-04T02:03:33.798995 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:33.799214 #28448]  INFO -- : Added item: Broadblade of Voyager
+I, [2025-12-04T02:03:33.799363 #28448]  INFO -- : Added weapon: Broadblade of Voyager
+I, [2025-12-04T02:03:34.474047 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:34.474367 #28448]  INFO -- : Added item: Dauntless Evernight
+I, [2025-12-04T02:03:34.474496 #28448]  INFO -- : Added weapon: Dauntless Evernight
+I, [2025-12-04T02:03:35.111179 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:35.111686 #28448]  INFO -- : Added item: Thunderflare Dominion
+I, [2025-12-04T02:03:35.111904 #28448]  INFO -- : Added weapon: Thunderflare Dominion
+I, [2025-12-04T02:03:35.751615 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:35.752003 #28448]  INFO -- : Added item: Guardian Broadblade
+I, [2025-12-04T02:03:35.752325 #28448]  INFO -- : Added weapon: Guardian Broadblade
+I, [2025-12-04T02:03:36.429266 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:36.429591 #28448]  INFO -- : Added item: Kumokiri
+I, [2025-12-04T02:03:36.429717 #28448]  INFO -- : Added weapon: Kumokiri
+I, [2025-12-04T02:03:37.539628 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:37.539895 #28448]  INFO -- : Added item: Beguiling Melody
+I, [2025-12-04T02:03:37.540001 #28448]  INFO -- : Added weapon: Beguiling Melody
+I, [2025-12-04T02:03:38.162923 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:38.163192 #28448]  INFO -- : Added item: Helios Cleaver
+I, [2025-12-04T02:03:38.163377 #28448]  INFO -- : Added weapon: Helios Cleaver
+I, [2025-12-04T02:03:38.840271 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:38.840552 #28448]  INFO -- : Added item: Autumntrace
+I, [2025-12-04T02:03:38.840724 #28448]  INFO -- : Added weapon: Autumntrace
+I, [2025-12-04T02:03:39.460591 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:39.460936 #28448]  INFO -- : Added item: Waning Redshift
+I, [2025-12-04T02:03:39.461108 #28448]  INFO -- : Added weapon: Waning Redshift
+I, [2025-12-04T02:03:40.087586 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:40.088003 #28448]  INFO -- : Added item: Meditations on Mercy
+I, [2025-12-04T02:03:40.088337 #28448]  INFO -- : Added weapon: Meditations on Mercy
+I, [2025-12-04T02:03:40.726312 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:40.726566 #28448]  INFO -- : Added item: Aureate Zenith
+I, [2025-12-04T02:03:40.726735 #28448]  INFO -- : Added weapon: Aureate Zenith
+I, [2025-12-04T02:03:41.349346 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:41.349651 #28448]  INFO -- : Added item: Training Sword
+I, [2025-12-04T02:03:41.349795 #28448]  INFO -- : Added weapon: Training Sword
+I, [2025-12-04T02:03:41.998720 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:41.999048 #28448]  INFO -- : Added item: Tyro Sword
+I, [2025-12-04T02:03:41.999131 #28448]  INFO -- : Added weapon: Tyro Sword
+I, [2025-12-04T02:03:42.674768 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:42.674993 #28448]  INFO -- : Added item: Sword of Night
+I, [2025-12-04T02:03:42.675152 #28448]  INFO -- : Added weapon: Sword of Night
+I, [2025-12-04T02:03:43.350288 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:43.350647 #28448]  INFO -- : Added item: Emerald of Genesis
+I, [2025-12-04T02:03:43.350874 #28448]  INFO -- : Added weapon: Emerald of Genesis
+I, [2025-12-04T02:03:44.012571 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:44.012923 #28448]  INFO -- : Added item: Blazing Brilliance
+I, [2025-12-04T02:03:44.013067 #28448]  INFO -- : Added weapon: Blazing Brilliance
+I, [2025-12-04T02:03:44.629668 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:44.630212 #28448]  INFO -- : Added item: Somnoire Anchor
+I, [2025-12-04T02:03:44.630960 #28448]  INFO -- : Added weapon: Somnoire Anchor
+I, [2025-12-04T02:03:45.255536 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:45.255856 #28448]  INFO -- : Added item: Originite: Type II
+I, [2025-12-04T02:03:45.256019 #28448]  INFO -- : Added weapon: Originite: Type II
+I, [2025-12-04T02:03:45.886039 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:45.886239 #28448]  INFO -- : Added item: Overture
+I, [2025-12-04T02:03:45.886379 #28448]  INFO -- : Added weapon: Overture
+I, [2025-12-04T02:03:46.575098 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:46.575389 #28448]  INFO -- : Added item: Red Spring
+I, [2025-12-04T02:03:46.575550 #28448]  INFO -- : Added weapon: Red Spring
+I, [2025-12-04T02:03:47.213298 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:47.213694 #28448]  INFO -- : Added item: Sword#18
+I, [2025-12-04T02:03:47.213979 #28448]  INFO -- : Added weapon: Sword#18
+I, [2025-12-04T02:03:47.894437 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:47.894724 #28448]  INFO -- : Added item: Unflickering Valor
+I, [2025-12-04T02:03:47.894866 #28448]  INFO -- : Added weapon: Unflickering Valor
+I, [2025-12-04T02:03:48.589851 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:48.590111 #28448]  INFO -- : Added item: Sword of Voyager
+I, [2025-12-04T02:03:48.590272 #28448]  INFO -- : Added weapon: Sword of Voyager
+I, [2025-12-04T02:03:49.247355 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:49.247653 #28448]  INFO -- : Added item: Commando of Conviction
+I, [2025-12-04T02:03:49.247841 #28448]  INFO -- : Added weapon: Commando of Conviction
+I, [2025-12-04T02:03:49.929816 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:49.930020 #28448]  INFO -- : Added item: Bloodpact's Pledge
+I, [2025-12-04T02:03:49.930068 #28448]  INFO -- : Added weapon: Bloodpact's Pledge
+I, [2025-12-04T02:03:50.554290 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:50.554530 #28448]  INFO -- : Added item: Guardian Sword
+I, [2025-12-04T02:03:50.554586 #28448]  INFO -- : Added weapon: Guardian Sword
+I, [2025-12-04T02:03:51.232816 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:51.233074 #28448]  INFO -- : Added item: Defier's Thorn
+I, [2025-12-04T02:03:51.233166 #28448]  INFO -- : Added weapon: Defier's Thorn
+I, [2025-12-04T02:03:51.852783 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:51.853110 #28448]  INFO -- : Added item: Lunar Cutter
+I, [2025-12-04T02:03:51.853239 #28448]  INFO -- : Added weapon: Lunar Cutter
+I, [2025-12-04T02:03:52.468837 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:52.469068 #28448]  INFO -- : Added item: Emerald Sentence
+I, [2025-12-04T02:03:52.469198 #28448]  INFO -- : Added weapon: Emerald Sentence
+I, [2025-12-04T02:03:53.130726 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:53.131051 #28448]  INFO -- : Added item: Lumingloss
+I, [2025-12-04T02:03:53.131319 #28448]  INFO -- : Added weapon: Lumingloss
+I, [2025-12-04T02:03:53.780248 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:53.780490 #28448]  INFO -- : Added item: Endless Collapse
+I, [2025-12-04T02:03:53.780633 #28448]  INFO -- : Added weapon: Endless Collapse
+I, [2025-12-04T02:03:54.443156 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:54.443275 #28448]  INFO -- : Added item: Fables of Wisdom
+I, [2025-12-04T02:03:54.443309 #28448]  INFO -- : Added weapon: Fables of Wisdom
+I, [2025-12-04T02:03:55.080896 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:55.081098 #28448]  INFO -- : Added item: Feather Edge
+I, [2025-12-04T02:03:55.081291 #28448]  INFO -- : Added weapon: Feather Edge
+I, [2025-12-04T02:03:56.030296 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:56.030600 #28448]  INFO -- : Added item: Training Pistols
+I, [2025-12-04T02:03:56.030734 #28448]  INFO -- : Added weapon: Training Pistols
+I, [2025-12-04T02:03:57.114218 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:57.114471 #28448]  INFO -- : Added item: Tyro Pistols
+I, [2025-12-04T02:03:57.114609 #28448]  INFO -- : Added weapon: Tyro Pistols
+I, [2025-12-04T02:03:57.812613 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:57.812894 #28448]  INFO -- : Added item: Pistols of Night
+I, [2025-12-04T02:03:57.813027 #28448]  INFO -- : Added weapon: Pistols of Night
+I, [2025-12-04T02:03:58.433033 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:58.433472 #28448]  INFO -- : Added item: Static Mist
+I, [2025-12-04T02:03:58.433637 #28448]  INFO -- : Added weapon: Static Mist
+I, [2025-12-04T02:03:59.048256 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:59.048654 #28448]  INFO -- : Added item: The Last Dance
+I, [2025-12-04T02:03:59.049052 #28448]  INFO -- : Added weapon: The Last Dance
+I, [2025-12-04T02:03:59.690296 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:03:59.690936 #28448]  INFO -- : Added item: Originite: Type III
+I, [2025-12-04T02:03:59.691106 #28448]  INFO -- : Added weapon: Originite: Type III
+I, [2025-12-04T02:04:00.408599 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:00.408958 #28448]  INFO -- : Added item: Cadenza
+I, [2025-12-04T02:04:00.409113 #28448]  INFO -- : Added weapon: Cadenza
+I, [2025-12-04T02:04:01.050107 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:01.050483 #28448]  INFO -- : Added item: Woodland Aria
+I, [2025-12-04T02:04:01.050689 #28448]  INFO -- : Added weapon: Woodland Aria
+I, [2025-12-04T02:04:01.678190 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:01.678434 #28448]  INFO -- : Added item: Pistols#26
+I, [2025-12-04T02:04:01.678576 #28448]  INFO -- : Added weapon: Pistols#26
+I, [2025-12-04T02:04:02.820182 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:02.820528 #28448]  INFO -- : Added item: Lux & Umbra
+I, [2025-12-04T02:04:02.820796 #28448]  INFO -- : Added weapon: Lux & Umbra
+I, [2025-12-04T02:04:03.460159 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:03.460564 #28448]  INFO -- : Added item: Pistols of Voyager
+I, [2025-12-04T02:04:03.460862 #28448]  INFO -- : Added weapon: Pistols of Voyager
+I, [2025-12-04T02:04:04.138181 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:04.138422 #28448]  INFO -- : Added item: Undying Flame
+I, [2025-12-04T02:04:04.138544 #28448]  INFO -- : Added weapon: Undying Flame
+I, [2025-12-04T02:04:04.777809 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:04.783438 #28448]  INFO -- : Added item: Guardian Pistols
+I, [2025-12-04T02:04:04.783647 #28448]  INFO -- : Added weapon: Guardian Pistols
+I, [2025-12-04T02:04:05.460152 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:05.460531 #28448]  INFO -- : Added item: Novaburst
+I, [2025-12-04T02:04:05.460819 #28448]  INFO -- : Added weapon: Novaburst
+I, [2025-12-04T02:04:06.129446 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:06.129854 #28448]  INFO -- : Added item: Thunderbolt
+I, [2025-12-04T02:04:06.130280 #28448]  INFO -- : Added weapon: Thunderbolt
+I, [2025-12-04T02:04:06.791139 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:06.791440 #28448]  INFO -- : Added item: Relativistic Jet
+I, [2025-12-04T02:04:06.791565 #28448]  INFO -- : Added weapon: Relativistic Jet
+I, [2025-12-04T02:04:07.414297 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:07.414538 #28448]  INFO -- : Added item: Romance in Farewell
+I, [2025-12-04T02:04:07.414601 #28448]  INFO -- : Added weapon: Romance in Farewell
+I, [2025-12-04T02:04:08.128549 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:08.128786 #28448]  INFO -- : Added item: Solar Flame
+I, [2025-12-04T02:04:08.128883 #28448]  INFO -- : Added weapon: Solar Flame
+I, [2025-12-04T02:04:09.055638 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:09.055829 #28448]  INFO -- : Added item: Training Gauntlets
+I, [2025-12-04T02:04:09.055883 #28448]  INFO -- : Added weapon: Training Gauntlets
+I, [2025-12-04T02:04:09.696143 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:09.696428 #28448]  INFO -- : Added item: Tyro Gauntlets
+I, [2025-12-04T02:04:09.696476 #28448]  INFO -- : Added weapon: Tyro Gauntlets
+I, [2025-12-04T02:04:10.395015 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:10.395340 #28448]  INFO -- : Added item: Gauntlets of Night
+I, [2025-12-04T02:04:10.395503 #28448]  INFO -- : Added weapon: Gauntlets of Night
+I, [2025-12-04T02:04:11.476711 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:11.477172 #28448]  INFO -- : Added item: Abyss Surges
+I, [2025-12-04T02:04:11.477399 #28448]  INFO -- : Added weapon: Abyss Surges
+I, [2025-12-04T02:04:12.147430 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:12.147784 #28448]  INFO -- : Added item: Verity's Handle
+I, [2025-12-04T02:04:12.147970 #28448]  INFO -- : Added weapon: Verity's Handle
+I, [2025-12-04T02:04:12.763126 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:12.763571 #28448]  INFO -- : Added item: Originite: Type IV
+I, [2025-12-04T02:04:12.763884 #28448]  INFO -- : Added weapon: Originite: Type IV
+I, [2025-12-04T02:04:13.420178 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:13.420371 #28448]  INFO -- : Added item: Marcato
+I, [2025-12-04T02:04:13.420552 #28448]  INFO -- : Added weapon: Marcato
+I, [2025-12-04T02:04:14.119026 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:14.119375 #28448]  INFO -- : Added item: Tragicomedy
+I, [2025-12-04T02:04:14.119566 #28448]  INFO -- : Added weapon: Tragicomedy
+I, [2025-12-04T02:04:14.799486 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:14.799804 #28448]  INFO -- : Added item: Gauntlets#21D
+I, [2025-12-04T02:04:14.799958 #28448]  INFO -- : Added weapon: Gauntlets#21D
+I, [2025-12-04T02:04:15.471947 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:15.472184 #28448]  INFO -- : Added item: Blazing Justice
+I, [2025-12-04T02:04:15.472397 #28448]  INFO -- : Added weapon: Blazing Justice
+I, [2025-12-04T02:04:16.164741 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:16.165061 #28448]  INFO -- : Added item: Gauntlets of Voyager
+I, [2025-12-04T02:04:16.165175 #28448]  INFO -- : Added weapon: Gauntlets of Voyager
+I, [2025-12-04T02:04:16.829816 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:16.830290 #28448]  INFO -- : Added item: Amity Accord
+I, [2025-12-04T02:04:16.830539 #28448]  INFO -- : Added weapon: Amity Accord
+I, [2025-12-04T02:04:17.495759 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:17.496102 #28448]  INFO -- : Added item: Moongazer's Sigil
+I, [2025-12-04T02:04:17.496440 #28448]  INFO -- : Added weapon: Moongazer's Sigil
+I, [2025-12-04T02:04:18.148200 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:18.148464 #28448]  INFO -- : Added item: Guardian Gauntlets
+I, [2025-12-04T02:04:18.148651 #28448]  INFO -- : Added weapon: Guardian Gauntlets
+I, [2025-12-04T02:04:18.827861 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:18.828338 #28448]  INFO -- : Added item: Hollow Mirage
+I, [2025-12-04T02:04:18.828653 #28448]  INFO -- : Added weapon: Hollow Mirage
+I, [2025-12-04T02:04:19.511924 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:19.512232 #28448]  INFO -- : Added item: Stonard
+I, [2025-12-04T02:04:19.512282 #28448]  INFO -- : Added weapon: Stonard
+I, [2025-12-04T02:04:20.165884 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:20.166217 #28448]  INFO -- : Added item: Celestial Spiral
+I, [2025-12-04T02:04:20.166318 #28448]  INFO -- : Added weapon: Celestial Spiral
+I, [2025-12-04T02:04:20.783401 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:20.783780 #28448]  INFO -- : Added item: Legend of Drunken Hero
+I, [2025-12-04T02:04:20.784071 #28448]  INFO -- : Added weapon: Legend of Drunken Hero
+I, [2025-12-04T02:04:21.459933 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:21.460209 #28448]  INFO -- : Added item: Aether Strike
+I, [2025-12-04T02:04:21.460342 #28448]  INFO -- : Added weapon: Aether Strike
+I, [2025-12-04T02:04:22.185082 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:22.185453 #28448]  INFO -- : Added item: Training Rectifier
+I, [2025-12-04T02:04:22.185626 #28448]  INFO -- : Added weapon: Training Rectifier
+I, [2025-12-04T02:04:22.847478 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:22.847734 #28448]  INFO -- : Added item: Tyro Rectifier
+I, [2025-12-04T02:04:22.847931 #28448]  INFO -- : Added weapon: Tyro Rectifier
+I, [2025-12-04T02:04:23.542796 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:23.543129 #28448]  INFO -- : Added item: Rectifier of Night
+I, [2025-12-04T02:04:23.543298 #28448]  INFO -- : Added weapon: Rectifier of Night
+I, [2025-12-04T02:04:24.180611 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:24.180938 #28448]  INFO -- : Added item: Cosmic Ripples
+I, [2025-12-04T02:04:24.181108 #28448]  INFO -- : Added weapon: Cosmic Ripples
+I, [2025-12-04T02:04:24.831325 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:24.831620 #28448]  INFO -- : Added item: Stringmaster
+I, [2025-12-04T02:04:24.831816 #28448]  INFO -- : Added weapon: Stringmaster
+I, [2025-12-04T02:04:25.454022 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:25.454318 #28448]  INFO -- : Added item: Call of the Abyss
+I, [2025-12-04T02:04:25.454432 #28448]  INFO -- : Added weapon: Call of the Abyss
+I, [2025-12-04T02:04:26.080827 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:26.081032 #28448]  INFO -- : Added item: Originite: Type V
+I, [2025-12-04T02:04:26.081191 #28448]  INFO -- : Added weapon: Originite: Type V
+I, [2025-12-04T02:04:26.696685 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:26.696938 #28448]  INFO -- : Added item: Variation
+I, [2025-12-04T02:04:26.697013 #28448]  INFO -- : Added weapon: Variation
+I, [2025-12-04T02:04:27.300058 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:27.300268 #28448]  INFO -- : Added item: Rime-Draped Sprouts
+I, [2025-12-04T02:04:27.300315 #28448]  INFO -- : Added weapon: Rime-Draped Sprouts
+I, [2025-12-04T02:04:28.004087 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:28.004257 #28448]  INFO -- : Added item: Ocean's Gift
+I, [2025-12-04T02:04:28.004427 #28448]  INFO -- : Added weapon: Ocean's Gift
+I, [2025-12-04T02:04:28.932534 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:28.932793 #28448]  INFO -- : Added item: Rectifier#25
+I, [2025-12-04T02:04:28.932946 #28448]  INFO -- : Added weapon: Rectifier#25
+I, [2025-12-04T02:04:29.847700 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:29.848094 #28448]  INFO -- : Added item: Stellar Symphony
+I, [2025-12-04T02:04:29.848443 #28448]  INFO -- : Added weapon: Stellar Symphony
+I, [2025-12-04T02:04:30.529038 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:30.529354 #28448]  INFO -- : Added item: Rectifier of Voyager
+I, [2025-12-04T02:04:30.529510 #28448]  INFO -- : Added weapon: Rectifier of Voyager
+I, [2025-12-04T02:04:31.161328 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:31.161499 #28448]  INFO -- : Added item: Jinzhou Keeper
+I, [2025-12-04T02:04:31.161539 #28448]  INFO -- : Added weapon: Jinzhou Keeper
+I, [2025-12-04T02:04:31.819596 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:31.819878 #28448]  INFO -- : Added item: Luminous Hymn
+I, [2025-12-04T02:04:31.820034 #28448]  INFO -- : Added weapon: Luminous Hymn
+I, [2025-12-04T02:04:32.431499 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:32.431800 #28448]  INFO -- : Added item: Guardian Rectifier
+I, [2025-12-04T02:04:32.432003 #28448]  INFO -- : Added weapon: Guardian Rectifier
+I, [2025-12-04T02:04:33.111695 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:33.111951 #28448]  INFO -- : Added item: Whispers of Sirens
+I, [2025-12-04T02:04:33.112133 #28448]  INFO -- : Added weapon: Whispers of Sirens
+I, [2025-12-04T02:04:33.732253 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:33.732584 #28448]  INFO -- : Added item: Comet Flare
+I, [2025-12-04T02:04:33.732709 #28448]  INFO -- : Added weapon: Comet Flare
+I, [2025-12-04T02:04:34.396146 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:34.396385 #28448]  INFO -- : Added item: Lethean Elegy
+I, [2025-12-04T02:04:34.396544 #28448]  INFO -- : Added weapon: Lethean Elegy
+I, [2025-12-04T02:04:35.017454 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:35.017913 #28448]  INFO -- : Added item: Augment
+I, [2025-12-04T02:04:35.018270 #28448]  INFO -- : Added weapon: Augment
+I, [2025-12-04T02:04:36.405456 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:36.405700 #28448]  INFO -- : Added item: Fusion Accretion
+I, [2025-12-04T02:04:36.405846 #28448]  INFO -- : Added weapon: Fusion Accretion
+I, [2025-12-04T02:04:37.067338 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:37.067559 #28448]  INFO -- : Added item: Waltz in Masquerade
+I, [2025-12-04T02:04:37.067686 #28448]  INFO -- : Added weapon: Waltz in Masquerade
+I, [2025-12-04T02:04:38.190436 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:38.190825 #28448]  INFO -- : Added item: Radiant Dawn
+I, [2025-12-04T02:04:38.191018 #28448]  INFO -- : Added weapon: Radiant Dawn
+I, [2025-12-04T02:04:38.903760 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:38.904045 #28448]  INFO -- : Added item: Projection: Somnoire Anchor
+I, [2025-12-04T02:04:38.904217 #28448]  INFO -- : Added weapon: Projection: Somnoire Anchor
+I, [2025-12-04T02:04:39.532968 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:39.533215 #28448]  INFO -- : Added item: Projection: Formless Broadblade
+I, [2025-12-04T02:04:39.533263 #28448]  INFO -- : Added weapon: Projection: Formless Broadblade
+I, [2025-12-04T02:04:40.152288 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:40.152405 #28448]  INFO -- : Added item: Projection: Formless Sword
+I, [2025-12-04T02:04:40.152436 #28448]  INFO -- : Added weapon: Projection: Formless Sword
+I, [2025-12-04T02:04:40.839383 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:40.839607 #28448]  INFO -- : Added item: Projection: Formless Pistol
+I, [2025-12-04T02:04:40.839752 #28448]  INFO -- : Added weapon: Projection: Formless Pistol
+I, [2025-12-04T02:04:41.445503 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:41.445770 #28448]  INFO -- : Added item: Projection: Formless Gauntlets
+I, [2025-12-04T02:04:41.445969 #28448]  INFO -- : Added weapon: Projection: Formless Gauntlets
+I, [2025-12-04T02:04:42.096525 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:42.096818 #28448]  INFO -- : Added item: Projection: Formless Rectifier
+I, [2025-12-04T02:04:42.097000 #28448]  INFO -- : Added weapon: Projection: Formless Rectifier
+I, [2025-12-04T02:04:42.746223 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:42.746424 #28448]  INFO -- : Added item: Projection - Peach Blossom
+I, [2025-12-04T02:04:42.746608 #28448]  INFO -- : Added weapon: Projection - Peach Blossom
+I, [2025-12-04T02:04:43.363057 #28448]  INFO -- : Processed: Weapon initialization
+I, [2025-12-04T02:04:43.363413 #28448]  INFO -- : Added item: Projection: Ocean's Gift
+I, [2025-12-04T02:04:43.363578 #28448]  INFO -- : Added weapon: Projection: Ocean's Gift
+I, [2025-12-04T02:04:43.365390 #28448]  INFO -- : Saved collection to CSV: output/weapons.csv
+I, [2025-12-04T02:04:43.365578 #28448]  INFO -- : Collection saved to CSV
+I, [2025-12-04T02:04:43.366581 #28448]  INFO -- : Saved collection to JSON: output/weapons.json
+I, [2025-12-04T02:04:43.366782 #28448]  INFO -- : Collection saved to JSON

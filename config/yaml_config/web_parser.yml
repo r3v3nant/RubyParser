@@ -1,0 +1,4 @@
+web_scraping:
+  start_page: "https://ww2.hakush.in/weapon"
+  container_selector: "div.grid.grid-cols-4"
+  item_selector: "a.btn"
