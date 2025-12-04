@@ -21,8 +21,6 @@ module MyApplicationKriukov
       weapons.each(&)
     end
 
-    # ---------------- SAVE METHODS ----------------
-
     def save_to_file(path)
       File.open(path, 'w') do |file|
         weapons.each { |w| file.puts w.to_s }
@@ -50,6 +48,46 @@ module MyApplicationKriukov
         File.write("#{path}/weapon_#{i + 1}.yml", w.to_h.to_yaml)
       end
       LoggerManager.logger.info("Saved collection to YAML folder: #{path}")
+    end
+
+    def save_to_sqlite(db)
+      db.execute <<-SQL
+        CREATE TABLE IF NOT EXISTS weapons (
+          id INTEGER PRIMARY KEY AUTOINCREMENT,
+          name TEXT,
+          type TEXT,
+          rarity TEXT,
+          atk TEXT,
+          second_stat_name TEXT,
+          second_stat TEXT,
+          description TEXT,
+          skill TEXT,
+          skill_description TEXT,
+          image_path TEXT
+        );
+      SQL
+
+      weapons.each do |w|
+        db.execute(
+          "INSERT INTO weapons (name, type, rarity, atk, second_stat_name, second_stat, description, skill, skill_description, image_path)
+          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+          [
+            w.name, w.type, w.rarity, w.atk, w.second_stat_name, w.second_stat,
+            w.description, w.skill, w.skill_description, w.image_path
+          ]
+        )
+      end
+
+      LoggerManager.logger.info("Saved #{weapons.size} weapons to SQLite DB")
+    end
+
+    def save_to_mongodb(db)
+      collection = db[:weapons]
+
+      documents = weapons.map(&:to_h)
+      collection.insert_many(documents)
+
+      LoggerManager.logger.info("Saved #{weapons.size} weapons to MongoDB")
     end
 
     def generate_test_weapons(count = 5)

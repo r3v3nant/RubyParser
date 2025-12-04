@@ -10,12 +10,10 @@ module MyApplicationKriukov
       run_save_to_file: 1,
       run_save_to_csv: 1,
       run_save_to_json: 0,
-      run_save_to_yaml: 0
-
+      run_save_to_yaml: 0,
+      run_save_to_sqlite: 0,
+      run_save_to_mongodb: 0
     }.freeze
-
-    # run_save_to_sqlite: 0,
-    # run_save_to_mongodb: 0
 
     def initialize
       @config = DEFAULT_CONFIG.dup

@@ -236,6 +236,21 @@ module MyApplicationKriukov
         @logger.info('Collection saved to JSON')
       end
 
+      if @configurator.config[:run_save_to_sqlite] == 1
+        db_connector = DatabaseConnector.new(ConfigLoader.config_data)
+        db = db_connector.connect_to_database
+        @collection.save_to_sqlite(db)
+        db_connector.close_connection
+      end
+
+      if @configurator.config[:run_save_to_mongodb] == 1
+        ConfigLoader.config_data['database_config']['database_type'] = 'mongodb'
+        db_connector = DatabaseConnector.new(ConfigLoader.config_data)
+        db = db_connector.connect_to_database # повинен бути Mongo::Client
+        @collection.save_to_mongodb(db)
+        db_connector.close_connection
+      end
+
       return unless @configurator.config[:run_save_to_yaml] == 1
 
       @collection.save_to_yml('output/yaml')

@@ -12,18 +12,6 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010011_UI.webp"
   },
   {
-    "name": "Tyro Broadblade",
-    "type": "Broadblade",
-    "rarity": "★★",
-    "atk": "275",
-    "second_stat_name": "ATK",
-    "second_stat": "14.8%",
-    "description": "The onset of pinnacle pursuit. A broadblade designed for novice Resonators. Contains a power not to be underestimated under its simple outlook.",
-    "skill": "Prologue",
-    "skill_description": "Increases ATK by 5%.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010012_UI.webp"
-  },
-  {
     "name": "Broadblade of Night",
     "type": "Broadblade",
     "rarity": "★★★",
@@ -34,54 +22,6 @@
     "skill": "Valiance",
     "skill_description": "When Intro Skill is cast, increases ATK by 8%, lasting for 10s.",
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010013_UI.webp"
-  },
-  {
-    "name": "Lustrous Razor",
-    "type": "Broadblade",
-    "rarity": "★★★★★",
-    "atk": "588",
-    "second_stat_name": "ATK",
-    "second_stat": "36.5%",
-    "description": "Gaze upon this Broadblade, its sharp edges gleaming in the frigid air. Wield it to feel power coursing through you like a raging river.",
-    "skill": "Stormy Resolution",
-    "skill_description": "Increases Energy Regen by 12.8%. When Resonance Skill is cast, Resonance Liberation DMG Bonus is increased by 7%, stacking up to 3 times. This effect lasts for 12s.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010015_UI.webp"
-  },
-  {
-    "name": "Verdant Summit",
-    "type": "Broadblade",
-    "rarity": "★★★★★",
-    "atk": "588",
-    "second_stat_name": "Crit. DMG",
-    "second_stat": "48.6%",
-    "description": "The ancient mountain stands tall, its peak reaching towards the sky. A river flows for thousands of years, forming the blade of a powerful weapon. As it is unsheathed, a powerful dragon's roar echoes through the heavens and earth, causing the sea to churn. This awe-inspiring weapon strikes fear in all who witness its might.",
-    "skill": "Swordsworn",
-    "skill_description": "Increases Attribute DMG Bonus by 12%. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by 24%, stacking up to 2 time(s). This effect lasts for 14s.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010016_UI.webp"
-  },
-  {
-    "name": "Originite: Type I",
-    "type": "Broadblade",
-    "rarity": "★★★",
-    "atk": "300",
-    "second_stat_name": "DEF",
-    "second_stat": "38.5%",
-    "description": "To create new Tacetite weapons, the Huaxu Academy designed this test Broadblade for technical verification. Its main feature is healing through attacks, improving the physical abilities of Resonators while exhibiting impressive weapon performance.",
-    "skill": "Temperance",
-    "skill_description": "When Resonance Skill is cast, heals 3% of the Resonator's Max HP. This effect can be triggered 1 time(s) every 12s.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010023_UI.webp"
-  },
-  {
-    "name": "Discord",
-    "type": "Broadblade",
-    "rarity": "★★★★",
-    "atk": "338",
-    "second_stat_name": "Energy Regen",
-    "second_stat": "51.8%",
-    "description": "A descending adagio. This broadblade dominates the battlefield with the power of discordance. The curtain never falls on a masterpiece.",
-    "skill": "Ceaseless Aria",
-    "skill_description": "When Resonance Skill is cast, restores 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010024_UI.webp"
   },
   {
     "name": "Ages of Harvest",
@@ -96,16 +36,16 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010026_UI.webp"
   },
   {
-    "name": "Broadblade#41",
+    "name": "Lustrous Razor",
     "type": "Broadblade",
-    "rarity": "★★★★",
-    "atk": "413",
-    "second_stat_name": "Energy Regen",
-    "second_stat": "32.4%",
-    "description": "An improved version of a mass-produced broadblade model developed in Huanglong. With its formidable performance and innovative technologies, this broadblade carries a weight only to be wielded by seasoned warriors.",
-    "skill": "Veteran",
-    "skill_description": "When the Resonator's HP is above 80%, increases ATK by 12%. When the Resonator's HP is below 40%, gives 5% healing when dealing Basic Attack DMG or Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010034_UI.webp"
+    "rarity": "★★★★★",
+    "atk": "588",
+    "second_stat_name": "ATK",
+    "second_stat": "36.5%",
+    "description": "Gaze upon this Broadblade, its sharp edges gleaming in the frigid air. Wield it to feel power coursing through you like a raging river.",
+    "skill": "Stormy Resolution",
+    "skill_description": "Increases Energy Regen by 12.8%. When Resonance Skill is cast, Resonance Liberation DMG Bonus is increased by 7%, stacking up to 3 times. This effect lasts for 12s.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010015_UI.webp"
   },
   {
     "name": "Wildfire Mark",
@@ -120,6 +60,18 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010036_UI.webp"
   },
   {
+    "name": "Discord",
+    "type": "Broadblade",
+    "rarity": "★★★★",
+    "atk": "338",
+    "second_stat_name": "Energy Regen",
+    "second_stat": "51.8%",
+    "description": "A descending adagio. This broadblade dominates the battlefield with the power of discordance. The curtain never falls on a masterpiece.",
+    "skill": "Ceaseless Aria",
+    "skill_description": "When Resonance Skill is cast, restores 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010024_UI.webp"
+  },
+  {
     "name": "Broadblade of Voyager",
     "type": "Broadblade",
     "rarity": "★★★",
@@ -130,6 +82,30 @@
     "skill": "Long Journey",
     "skill_description": "When Resonance Skill is cast, restores 8 Resonance Energy. This effect can be triggered 1 time(s) every 20s.",
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010043_UI.webp"
+  },
+  {
+    "name": "Verdant Summit",
+    "type": "Broadblade",
+    "rarity": "★★★★★",
+    "atk": "588",
+    "second_stat_name": "Crit. DMG",
+    "second_stat": "48.6%",
+    "description": "The ancient mountain stands tall, its peak reaching towards the sky. A river flows for thousands of years, forming the blade of a powerful weapon. As it is unsheathed, a powerful dragon's roar echoes through the heavens and earth, causing the sea to churn. This awe-inspiring weapon strikes fear in all who witness its might.",
+    "skill": "Swordsworn",
+    "skill_description": "Increases Attribute DMG Bonus by 12%. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by 24%, stacking up to 2 time(s). This effect lasts for 14s.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010016_UI.webp"
+  },
+  {
+    "name": "Tyro Broadblade",
+    "type": "Broadblade",
+    "rarity": "★★",
+    "atk": "275",
+    "second_stat_name": "ATK",
+    "second_stat": "14.8%",
+    "description": "The onset of pinnacle pursuit. A broadblade designed for novice Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "skill": "Prologue",
+    "skill_description": "Increases ATK by 5%.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010012_UI.webp"
   },
   {
     "name": "Dauntless Evernight",
@@ -156,16 +132,16 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010046_UI.webp"
   },
   {
-    "name": "Guardian Broadblade",
+    "name": "Broadblade#41",
     "type": "Broadblade",
-    "rarity": "★★★",
-    "atk": "325",
-    "second_stat_name": "ATK",
-    "second_stat": "24.3%",
-    "description": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Today, it has become an indispensable cornerstone in the development of new weapons.",
-    "skill": "Consensus",
-    "skill_description": "Increases Basic Attack DMG Bonus and Heavy Attack DMG Bonus by 12%.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010053_UI.webp"
+    "rarity": "★★★★",
+    "atk": "413",
+    "second_stat_name": "Energy Regen",
+    "second_stat": "32.4%",
+    "description": "An improved version of a mass-produced broadblade model developed in Huanglong. With its formidable performance and innovative technologies, this broadblade carries a weight only to be wielded by seasoned warriors.",
+    "skill": "Veteran",
+    "skill_description": "When the Resonator's HP is above 80%, increases ATK by 12%. When the Resonator's HP is below 40%, gives 5% healing when dealing Basic Attack DMG or Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010034_UI.webp"
   },
   {
     "name": "Kumokiri",
@@ -178,6 +154,18 @@
     "skill": "Thread of Fate",
     "skill_description": "ATK is increased by 12%. When the wielder casts Intro Skill or inflicts Negative Statuses, they gain 8% Resonance Liberation DMG Bonus, stacking up to 3 times for 15s.At max stacks, when Resonators in the team inflict Negative Statuses, they gain 24% All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked.",
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010056_UI.webp"
+  },
+  {
+    "name": "Guardian Broadblade",
+    "type": "Broadblade",
+    "rarity": "★★★",
+    "atk": "325",
+    "second_stat_name": "ATK",
+    "second_stat": "24.3%",
+    "description": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Today, it has become an indispensable cornerstone in the development of new weapons.",
+    "skill": "Consensus",
+    "skill_description": "Increases Basic Attack DMG Bonus and Heavy Attack DMG Bonus by 12%.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010053_UI.webp"
   },
   {
     "name": "Beguiling Melody",
@@ -214,6 +202,18 @@
     "skill": "Edge Direction",
     "skill_description": "Increases ATK by 4% upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s.",
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010074_UI.webp"
+  },
+  {
+    "name": "Originite: Type I",
+    "type": "Broadblade",
+    "rarity": "★★★",
+    "atk": "300",
+    "second_stat_name": "DEF",
+    "second_stat": "38.5%",
+    "description": "To create new Tacetite weapons, the Huaxu Academy designed this test Broadblade for technical verification. Its main feature is healing through attacks, improving the physical abilities of Resonators while exhibiting impressive weapon performance.",
+    "skill": "Temperance",
+    "skill_description": "When Resonance Skill is cast, heals 3% of the Resonator's Max HP. This effect can be triggered 1 time(s) every 12s.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010023_UI.webp"
   },
   {
     "name": "Waning Redshift",
@@ -288,18 +288,6 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020013_UI.webp"
   },
   {
-    "name": "Emerald of Genesis",
-    "type": "Sword",
-    "rarity": "★★★★★",
-    "atk": "588",
-    "second_stat_name": "Crit. Rate",
-    "second_stat": "24.3%",
-    "description": "Pay heed: the frigid blade reveals an icy current, amalgamating into a whirlpool of thoughts. Use this powerful sequence to effortlessly crush your enemies with the Sword.",
-    "skill": "Stormy Resolution",
-    "skill_description": "Increases Energy Regen by 12.8%. When Resonance Skill is cast, increases ATK by 6%, stacking up to 2 time(s). This effect lasts for 10s.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020015_UI.webp"
-  },
-  {
     "name": "Blazing Brilliance",
     "type": "Sword",
     "rarity": "★★★★★",
@@ -310,6 +298,18 @@
     "skill": "Crimson Phoenix",
     "skill_description": "ATK increased by 12%. The wielder gains 1 stack of Searing Feather upon dealing damage, which can be triggered once every 0.5s, and gains 5 stacks of the same effect upon casting Resonance Skill. Each stack of Searing Feather gives 4% additional Resonance Skill DMG Bonus for up to 14 stacks. After reaching the max stacks, all stacks will be removed in 12s.",
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020016_UI.webp"
+  },
+  {
+    "name": "Emerald of Genesis",
+    "type": "Sword",
+    "rarity": "★★★★★",
+    "atk": "588",
+    "second_stat_name": "Crit. Rate",
+    "second_stat": "24.3%",
+    "description": "Pay heed: the frigid blade reveals an icy current, amalgamating into a whirlpool of thoughts. Use this powerful sequence to effortlessly crush your enemies with the Sword.",
+    "skill": "Stormy Resolution",
+    "skill_description": "Increases Energy Regen by 12.8%. When Resonance Skill is cast, increases ATK by 6%, stacking up to 2 time(s). This effect lasts for 10s.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020015_UI.webp"
   },
   {
     "name": "Somnoire Anchor",
@@ -660,18 +660,6 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030044_UI.webp"
   },
   {
-    "name": "Guardian Pistols",
-    "type": "Pistols",
-    "rarity": "★★★",
-    "atk": "300",
-    "second_stat_name": "ATK",
-    "second_stat": "30.4%",
-    "description": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
-    "skill": "Unity",
-    "skill_description": "Resonance Skill DMG Bonus is increased by 12%.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030053_UI.webp"
-  },
-  {
     "name": "Novaburst",
     "type": "Pistols",
     "rarity": "★★★★",
@@ -684,16 +672,16 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030064_UI.webp"
   },
   {
-    "name": "Thunderbolt",
+    "name": "Guardian Pistols",
     "type": "Pistols",
-    "rarity": "★★★★",
-    "atk": "388",
+    "rarity": "★★★",
+    "atk": "300",
     "second_stat_name": "ATK",
-    "second_stat": "36.5%",
-    "description": "These Pistols are ceremonial weapons used in Huanglong's Magistrate Inauguration Ceremonies. The golden ginkgo leaf pattern symbolizes Huanglong's resilience, thriving in a world that has left it behind.",
-    "skill": "Unstoppable",
-    "skill_description": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by 7%, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030074_UI.webp"
+    "second_stat": "30.4%",
+    "description": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
+    "skill": "Unity",
+    "skill_description": "Resonance Skill DMG Bonus is increased by 12%.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030053_UI.webp"
   },
   {
     "name": "Relativistic Jet",
@@ -742,6 +730,18 @@
     "skill": "Persevere",
     "skill_description": "Increases ATK by 4%.",
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040011_UI.webp"
+  },
+  {
+    "name": "Thunderbolt",
+    "type": "Pistols",
+    "rarity": "★★★★",
+    "atk": "388",
+    "second_stat_name": "ATK",
+    "second_stat": "36.5%",
+    "description": "These Pistols are ceremonial weapons used in Huanglong's Magistrate Inauguration Ceremonies. The golden ginkgo leaf pattern symbolizes Huanglong's resilience, thriving in a world that has left it behind.",
+    "skill": "Unstoppable",
+    "skill_description": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by 7%, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030074_UI.webp"
   },
   {
     "name": "Tyro Gauntlets",
@@ -852,18 +852,6 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040019_UI.webp"
   },
   {
-    "name": "Gauntlets of Voyager",
-    "type": "Gauntlets",
-    "rarity": "★★★",
-    "atk": "325",
-    "second_stat_name": "DEF",
-    "second_stat": "30.8%",
-    "description": "The Gauntlets provided by the Pioneer Association for the far walkers, with bright colors, not easy to lose, hard texture, can cope with various extreme environments for a long time, and are very popular among the explorer group.",
-    "skill": "Crusade",
-    "skill_description": "When Resonance Skill is cast, restores 8 Resonance Energy. This effect can be triggered 1 time(s) every 20s.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040043_UI.webp"
-  },
-  {
     "name": "Amity Accord",
     "type": "Gauntlets",
     "rarity": "★★★★",
@@ -874,6 +862,18 @@
     "skill": "Camaraderie",
     "skill_description": "When Intro Skill is cast, increases Resonance Liberation DMG Bonus by 20%, lasting for 15s.",
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040044_UI.webp"
+  },
+  {
+    "name": "Gauntlets of Voyager",
+    "type": "Gauntlets",
+    "rarity": "★★★",
+    "atk": "325",
+    "second_stat_name": "DEF",
+    "second_stat": "30.8%",
+    "description": "The Gauntlets provided by the Pioneer Association for the far walkers, with bright colors, not easy to lose, hard texture, can cope with various extreme environments for a long time, and are very popular among the explorer group.",
+    "skill": "Crusade",
+    "skill_description": "When Resonance Skill is cast, restores 8 Resonance Energy. This effect can be triggered 1 time(s) every 20s.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040043_UI.webp"
   },
   {
     "name": "Moongazer's Sigil",
@@ -972,18 +972,6 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050011_UI.webp"
   },
   {
-    "name": "Tyro Rectifier",
-    "type": "Rectifier",
-    "rarity": "★★",
-    "atk": "275",
-    "second_stat_name": "ATK",
-    "second_stat": "14.8%",
-    "description": "The origin of universal genesis. A Rectifier designed for novice Resonators. Contains a power not to be underestimated under its simple outlook.",
-    "skill": "Prologue",
-    "skill_description": "Increases ATK by 5%.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050012_UI.webp"
-  },
-  {
     "name": "Rectifier of Night",
     "type": "Rectifier",
     "rarity": "★★★",
@@ -994,6 +982,18 @@
     "skill": "Valiance",
     "skill_description": "When Intro Skill is cast, increases ATK by 8%, lasting for 10s.",
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050013_UI.webp"
+  },
+  {
+    "name": "Tyro Rectifier",
+    "type": "Rectifier",
+    "rarity": "★★",
+    "atk": "275",
+    "second_stat_name": "ATK",
+    "second_stat": "14.8%",
+    "description": "The origin of universal genesis. A Rectifier designed for novice Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "skill": "Prologue",
+    "skill_description": "Increases ATK by 5%.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050012_UI.webp"
   },
   {
     "name": "Cosmic Ripples",
@@ -1128,18 +1128,6 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050044_UI.webp"
   },
   {
-    "name": "Luminous Hymn",
-    "type": "Rectifier",
-    "rarity": "★★★★★",
-    "atk": "500",
-    "second_stat_name": "Crit. Rate",
-    "second_stat": "36%",
-    "description": "\"The Sentinel's grace, how sweet thou art. Our home was lost, but found at last. With twigs between my beaks, I brave the waves. Bound by love, we're crowned with holy light.\"",
-    "skill": "Homebuilder's Anthem",
-    "skill_description": "Increase ATK by 12%. Dealing DMG to targets with Spectro Frazzle grants the wielder 14% Basic Attack DMG Bonus and 14% Heavy Attack DMG Bonus, stacking up to 3 {Cus:Sap,S=time P=times SapTag=2} for 6s. Casting Outro Skill Amplifies the Spectro Frazzle DMG on targets around the active Resonator by 30% for 30s. Effects of the same name cannot be stacked.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050029_UI.webp"
-  },
-  {
     "name": "Guardian Rectifier",
     "type": "Rectifier",
     "rarity": "★★★",
@@ -1176,6 +1164,18 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050064_UI.webp"
   },
   {
+    "name": "Luminous Hymn",
+    "type": "Rectifier",
+    "rarity": "★★★★★",
+    "atk": "500",
+    "second_stat_name": "Crit. Rate",
+    "second_stat": "36%",
+    "description": "\"The Sentinel's grace, how sweet thou art. Our home was lost, but found at last. With twigs between my beaks, I brave the waves. Bound by love, we're crowned with holy light.\"",
+    "skill": "Homebuilder's Anthem",
+    "skill_description": "Increase ATK by 12%. Dealing DMG to targets with Spectro Frazzle grants the wielder 14% Basic Attack DMG Bonus and 14% Heavy Attack DMG Bonus, stacking up to 3 {Cus:Sap,S=time P=times SapTag=2} for 6s. Casting Outro Skill Amplifies the Spectro Frazzle DMG on targets around the active Resonator by 30% for 30s. Effects of the same name cannot be stacked.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050029_UI.webp"
+  },
+  {
     "name": "Lethean Elegy",
     "type": "Rectifier",
     "rarity": "★★★★★",
@@ -1200,18 +1200,6 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050074_UI.webp"
   },
   {
-    "name": "Fusion Accretion",
-    "type": "Rectifier",
-    "rarity": "★★★★",
-    "atk": "463",
-    "second_stat_name": "ATK",
-    "second_stat": "18.2%",
-    "description": "A prototype weapon designed by the Black Shores for elite combatants. This rectifier takes its name from the devastating might of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
-    "skill": "Intergalactic Gaze",
-    "skill_description": "Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10%, lasting for 16s. This effect can be triggered once every 20s.",
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050084_UI.webp"
-  },
-  {
     "name": "Waltz in Masquerade",
     "type": "Rectifier",
     "rarity": "★★★★",
@@ -1222,6 +1210,18 @@
     "skill": "Rhetoric",
     "skill_description": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10s. This effect can be triggered 1 time per second, stackable up to 4 times.",
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050094_UI.webp"
+  },
+  {
+    "name": "Fusion Accretion",
+    "type": "Rectifier",
+    "rarity": "★★★★",
+    "atk": "463",
+    "second_stat_name": "ATK",
+    "second_stat": "18.2%",
+    "description": "A prototype weapon designed by the Black Shores for elite combatants. This rectifier takes its name from the devastating might of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+    "skill": "Intergalactic Gaze",
+    "skill_description": "Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10%, lasting for 16s. This effect can be triggered once every 20s.",
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050084_UI.webp"
   },
   {
     "name": "Radiant Dawn",
@@ -1272,18 +1272,6 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020018_UI.webp"
   },
   {
-    "name": "Projection: Formless Pistol",
-    "type": "Pistols",
-    "rarity": "★★★",
-    "atk": null,
-    "second_stat_name": null,
-    "second_stat": null,
-    "description": "A conceptual projection, a transparent pistol as if it were made of nothing.\nIn Somnoire, a weapon's form is but a mirage, while its purpose—a tool of war—holds true as ever.",
-    "skill": null,
-    "skill_description": null,
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030016_UI.webp"
-  },
-  {
     "name": "Projection: Formless Gauntlets",
     "type": "Gauntlets",
     "rarity": "★★★",
@@ -1308,18 +1296,6 @@
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050028_UI.webp"
   },
   {
-    "name": "Projection - Peach Blossom",
-    "type": "Broadblade",
-    "rarity": "★★★★★",
-    "atk": null,
-    "second_stat_name": null,
-    "second_stat": null,
-    "description": "A projection of Broadblade - Ages of Harvest, as lovely as peach blossoms.\nWith spring's arrival, the temporal pearl on the hilt turns pink, dyed by petals, like the heart of a girl in bloom.",
-    "skill": null,
-    "skill_description": null,
-    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010017_UI.webp"
-  },
-  {
     "name": "Projection: Ocean's Gift",
     "type": "Rectifier",
     "rarity": "★★★★",
@@ -1330,5 +1306,29 @@
     "skill": null,
     "skill_description": null,
     "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050036_UI.webp"
+  },
+  {
+    "name": "Projection: Formless Pistol",
+    "type": "Pistols",
+    "rarity": "★★★",
+    "atk": null,
+    "second_stat_name": null,
+    "second_stat": null,
+    "description": "A conceptual projection, a transparent pistol as if it were made of nothing.\nIn Somnoire, a weapon's form is but a mirage, while its purpose—a tool of war—holds true as ever.",
+    "skill": null,
+    "skill_description": null,
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030016_UI.webp"
+  },
+  {
+    "name": "Projection - Peach Blossom",
+    "type": "Broadblade",
+    "rarity": "★★★★★",
+    "atk": null,
+    "second_stat_name": null,
+    "second_stat": null,
+    "description": "A projection of Broadblade - Ages of Harvest, as lovely as peach blossoms.\nWith spring's arrival, the temporal pearl on the hilt turns pink, dyed by petals, like the heart of a girl in bloom.",
+    "skill": null,
+    "skill_description": null,
+    "image_path": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010017_UI.webp"
   }
 ]
